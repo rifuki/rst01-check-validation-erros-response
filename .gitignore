@@ -1,0 +1,4 @@
+/target
+/mariadb-data
+.DS_Store
+.env
